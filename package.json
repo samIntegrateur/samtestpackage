@@ -1,5 +1,5 @@
 {
-  "name": "samtestpackage",
+  "name": "@samueld/samtestpackage",
   "version": "1.0.0",
   "description": "hello npm",
   "main": "index.js",
